@@ -33,10 +33,6 @@ Este es un sencillo **Bloc de Notas** desarrollado en **WPF (Windows Presentatio
  ├── 📄 App.xaml.cs             # Lógica global de la aplicación
 ```
 
-## Capturas de Pantalla
-
-*(Puedes agregar capturas de pantalla del proyecto funcionando aquí)*
-
 ## Contribución
 
 Si quieres mejorar este proyecto:
